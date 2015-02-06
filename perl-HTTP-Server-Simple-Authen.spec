@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	4
+Release:	5
 
 Summary:	Authentication plugin for HTTP::Server::Simple
 License:	GPL+ or Artistic
